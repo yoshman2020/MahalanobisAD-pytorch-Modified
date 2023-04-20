@@ -1,0 +1,5 @@
+torch
+torchvision
+efficientnet_pytorch==0.6.3
+sklearn
+matplotlib
